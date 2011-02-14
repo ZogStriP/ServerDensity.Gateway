@@ -1,0 +1,13 @@
+D:\Poetry\Poems\ServerDensity.Gateway\ServerDensity.Gateway\bin\Debug\ServerDensity.Gateway.exe.config
+D:\Poetry\Poems\ServerDensity.Gateway\ServerDensity.Gateway\bin\Debug\ServerDensity.Gateway.exe
+D:\Poetry\Poems\ServerDensity.Gateway\ServerDensity.Gateway\bin\Debug\ServerDensity.Gateway.pdb
+D:\Poetry\Poems\ServerDensity.Gateway\ServerDensity.Gateway\bin\Debug\log4net.dll
+D:\Poetry\Poems\ServerDensity.Gateway\ServerDensity.Gateway\obj\Debug\ResolveAssemblyReference.cache
+D:\Poetry\Poems\ServerDensity.Gateway\ServerDensity.Gateway\obj\Debug\ServerDensity.Gateway.exe
+D:\Poetry\Poems\ServerDensity.Gateway\ServerDensity.Gateway\obj\Debug\ServerDensity.Gateway.pdb
+D:\Projects\ServerDensity.Gateway\ServerDensity.Gateway\bin\Debug\ServerDensity.Gateway.exe.config
+D:\Projects\ServerDensity.Gateway\ServerDensity.Gateway\obj\Debug\ServerDensity.Gateway.exe
+D:\Projects\ServerDensity.Gateway\ServerDensity.Gateway\obj\Debug\ServerDensity.Gateway.pdb
+C:\Poetry\ServerDensity.Gateway\ServerDensity.Gateway\bin\Debug\ServerDensity.Gateway.exe.config
+C:\Poetry\ServerDensity.Gateway\ServerDensity.Gateway\obj\Debug\ServerDensity.Gateway.exe
+C:\Poetry\ServerDensity.Gateway\ServerDensity.Gateway\obj\Debug\ServerDensity.Gateway.pdb
