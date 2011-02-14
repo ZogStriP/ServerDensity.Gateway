@@ -1,1 +1,3 @@
 A lightweight gateway that pushes Server Density payloads from back-ends
+
+Based on https://github.com/boxedice/sd-agent-windows
