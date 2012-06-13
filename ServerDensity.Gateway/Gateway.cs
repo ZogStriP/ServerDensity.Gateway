@@ -13,6 +13,7 @@ namespace ServerDensity.Gateway
         /// </summary>
         public static void Main()
         {
+            // prout
             var config = (GatewayConfigurationSection)ConfigurationManager.GetSection("gateway");
             var gateway = new Gateway(config);
 
